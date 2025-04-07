@@ -147,7 +147,7 @@ extraOverrides: |
   </clickhouse>
 
 persistence:
-  size: 10Gi
+  size: 1Gi
 
 # remove this in production
 resourcesPreset: "small"
